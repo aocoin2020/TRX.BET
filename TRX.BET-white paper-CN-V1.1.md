@@ -56,6 +56,7 @@ TRX.BET平台针对的是TRX的用户及爱好者，他们了解TRX的价值，�
 ### TRC-20 TOKEN
 
 ### 总发行量：100，000，000
+### 智能合约地址：TDuetDuG2FTG6TqbpjRTApn5LpsQANFaBm [点击查看](https://tronscan.org/#/contract/TDuetDuG2FTG6TqbpjRTApn5LpsQANFaBm)
 
 ### TBT的用途是持有者可加入股权池分配平台的利润。可流通。
 
@@ -80,6 +81,7 @@ TRX.BET平台针对的是TRX的用户及爱好者，他们了解TRX的价值，�
 ### 总发行量：100，000，000，000
 
 ### TBS是用户在平台的消费证明。可流通。
+### 智能合约ID：1002239  [点击查看](https://tronscan.org/#/token/1002239/holders)
 
 用户在平台参与游戏和竞猜时，平台智能合约将会以1：1比例向用户发放消费证明，TBS是用户在平台的身份象征，持有越多，就代表着用户对平台的支持度和参与度越高。
 
